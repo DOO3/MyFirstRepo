@@ -10,7 +10,7 @@ namespace MyFirstRepos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");  
+            Console.WriteLine("Hello world!");  
         }
     }
 }
